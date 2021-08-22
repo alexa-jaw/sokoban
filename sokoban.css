@@ -1,0 +1,20 @@
+h1 {
+    margin-left: 440px;
+    font-size: 5em;
+}
+body {
+    background-color: gainsboro;
+}
+
+#userName {
+    margin-left: 40px;
+}
+#container {
+    margin-top: 5px;
+    margin-bottom: 350px;
+    margin-right: 350px;
+    margin-left: 350px;
+    height: 718px;
+    width: 683px;
+    border: 5px solid black;
+}
